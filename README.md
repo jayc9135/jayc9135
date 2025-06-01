@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🌪️ Capstone: **Hurricane Resource Shortage Forecasting using Ridge + Bayesian Inference**
 - 🧠 AI Project: **Mental Health GPT-4o Companion** with RAG and A/B testing
-- 🧰 Internships: **Data Science & Software Engineering** at pharma and finance domains
+- 🧰 Internships: **Data Science & Software Engineering**
 - 💬 Ask me about **LLMs, MLOps, Generative AI, RAG, PyMC, Docker, FastAPI**
 - 📫 Reach me at: `jc4320@rit.edu` | [LinkedIn](https://linkedin.com/in/jaychaudhari009) | [Portfolio](https://jay-chaudhari.vercel.app/)
 
