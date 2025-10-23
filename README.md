@@ -1,7 +1,6 @@
 # Hi there, I'm Jay 👋  
 
 🚀 **Machine Learning Engineer | Data Scientist | AI Enthusiast**  
-🌎 Open to relocation  
 
 ---
 
